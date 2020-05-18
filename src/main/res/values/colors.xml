@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#16112e</color>
+    <color name="colorPrimaryDark">#16112e</color>
+    <color name="colorAccent">#FF339A</color>
+    <color name="mainTabBgColor">#120d25</color>
+    <color name="tab_normal">#5A5767</color>
+    <color name="child_tab_normal">#918E9D</color>
+    <color name="tab_selected">@android:color/white</color>
+    <color name="text_color">#FF339A</color>
+    <color name="color_4Dffffff">#4Dffffff</color>
+    <color name="half_white">#80ffffff</color>
+<!--    <color name="video_hint_color">#B9B8C0</color>-->
+    <color name="video_item_bg">#3C3750</color>
+    <color name="title_line">#26203F</color>
+    <color name="tg_bg_color">#4B4A7C</color>
+    <color name="comment_name">#3c3750</color>
+    <!--    文字颜色主要这3种-->
+    <color name="colorTitle">#b9b8c0</color>
+    <color name="colorContent">#918e9d</color>
+    <color name="colorDarkGray">#5a5767</color>
+    <color name="text_time">#9916112E</color>
+
+    <color name="default_tcv_selected_color">#16112e</color>
+    <color name="default_tcv_unselected_color">#9916112E</color>
+
+    <color name="white">#ffffff</color>
+    <color name="colorGray4">#787878</color>
+    <color name="transparent">#00000000</color>
+    <color name="black">#000000</color>
+    <color name="divider_color">#c9c9c9</color>
+</resources>
